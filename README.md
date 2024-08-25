@@ -8,13 +8,14 @@
 
 </a>
 
-- 🚀 &nbsp;I'm currently part of **[Zenith Aerospace]**
-- :seedling: &nbsp;I’m currently learning more about **Embedded systems**
-
+-  :satisfied: I’m interested in **Embedded systems**, **DevOps**, **Robotics**, **Physics** and **Control Theory**.
+-  :information_desk_person: I consider myself an Advocate and Herald of the FOSS culture.
+-  :scroll: I have a **[Personal Blog]**.
+-  :heart: Just a curious guy that loves to learn new things.
 <br>
 
 <!-- links -->
-[Zenith Aerospace]: https://github.com/zenitheesc "Zenith Aerospace Github Home"
+[Personal Blog]: https://carloscraveiro.github.io/personal_blog/ "My personal Blog"
 
 <!--Future "features" to this README-->
 
