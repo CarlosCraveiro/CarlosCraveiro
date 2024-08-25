@@ -8,7 +8,7 @@
 
 </a>
 
--  :satisfied: I’m interested in **Embedded systems**, **DevOps**, **Robotics**, **Physics** and **Control Theory**.
+-  :satisfied: I’m interested in **Embedded systems**, **DevOps**, **Robotics**, **Physics**, **Education** and **Control Theory**.
 -  :information_desk_person: I consider myself an Advocate and Herald of the FOSS culture.
 -  :scroll: I have a **[Personal Blog]**.
 -  :heart: Just a curious guy that loves to learn new things.
